@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/my-portfolio/static/css/main.3ab859be.css",
+    "main.js": "/my-portfolio/static/js/main.a0f555dd.js",
+    "static/media/nekonobori.zip": "/my-portfolio/static/media/nekonobori.095ead998ccec18b6fa9.zip",
+    "static/media/myportfolio.png": "/my-portfolio/static/media/myportfolio.c2e5a1106c822b2b0571.png",
+    "static/media/catCliming.jpg": "/my-portfolio/static/media/catCliming.d4c7259bb6d013f5bb52.jpg",
+    "static/media/splatoon_weaponjudge.png": "/my-portfolio/static/media/splatoon_weaponjudge.85f3af8735853064b7fd.png",
+    "index.html": "/my-portfolio/index.html",
+    "main.3ab859be.css.map": "/my-portfolio/static/css/main.3ab859be.css.map",
+    "main.a0f555dd.js.map": "/my-portfolio/static/js/main.a0f555dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ab859be.css",
+    "static/js/main.a0f555dd.js"
+  ]
+}
