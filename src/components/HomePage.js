@@ -3,6 +3,9 @@ import splaImage from "../Images/splatoon_weaponjudge.png"
 import pfImage from "../Images/myportfolio.png"
 import catImage from "../Images/catCliming.jpg"
 import catZip from "../Images/nekonobori.zip"
+import foodImage from "../Images/foodAndGabages.jpg"
+import foodZip from "../Images/foodAndGabages.zip"
+
 const HomePage = () => {
     return <div className="container text-center" class="HomePage">
         <div class="hero" id="profile">
@@ -74,8 +77,30 @@ const HomePage = () => {
                         </div>
                         <p>Unityを用いて2Dのジャンプアクションゲームを作成しました。</p>
                         <p>シンプルな操作ながら、さまざまなギミックを追加しました。</p>
-                        <p>ダウンロード：<a href={catZip}>Windows</a></p>
-                        <p><a href="https://unityroom.com/games/nekonobori">unityroomでプレイ</a></p>
+                        <p>ダウンロード：<a href={catZip} class="kyoproLink">Windows</a></p>
+                        <p><a href="https://unityroom.com/games/nekonobori" class="kyoproLink">unityroomでプレイ</a></p>
+                    </div>
+                    <div class="contents">
+                        <div>
+                            <a href="https://github.com/sou004002/bnscup2023" class="contentsName">餌をやる。そしてごみをすくう。</a>
+                        </div>
+                        <div className="portImage">
+                            <img src={foodImage} class="catImage" />
+                        </div>
+                        <div class="box26">
+                            <span class="box-title">使用技術</span>
+                            <ul>
+                                <li>Siv3D</li>
+                                <li>C++</li>
+                            </ul>
+                        </div>
+                        <p>ごみをすくいながら餌を上げてレベルを競う、育成耐久ゲームです。</p>
+                        <p>同研究室で4人チームを組み、2週間のゲームジャムに参加し開発しました。</p>
+                        <p>全員がプログラムを担当し、私はデザインも担当しました。</p>
+                        <p>C++のフレームワーク「Siv3D」に初めて触れました。</p>
+                        <p>ダウンロード：<a href={foodZip} class="kyoproLink">Windows</a></p>
+                        <p><a href="https://scrapbox.io/bnscup2023/えさをやる%E3%80%82そしてごみをすくう%E3%80%82" class="kyoproLink">作品紹介ページ</a></p>
+                        <p></p>
                     </div>
                 </div>
             </div>
@@ -98,7 +123,7 @@ const HomePage = () => {
                         </div>
                         <p>競技プログラミングでは、Pythonでコードを提出しています。</p>
                         <p>Unityでの開発経験があります。</p>
-                        <p>最近はC++のフレームワーク「siv3D」でも開発を行っています。</p>
+                        <p>C++のフレームワーク「Siv3D」での開発経験もあります。</p>
                     </div>
                     <div class="skill-contents">
                         <div class="box26">
