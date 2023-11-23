@@ -198,8 +198,21 @@ footer{
   padding: 40px 40px;
 } */
 iframe{
-  width:65%;
+  width:70%;
+  height:700px;
   /* text-align: center; */
+}
+@media screen and (max-width: 959px) {
+	/* 959px以下に適用されるCSS（タブレット用） */
+  iframe{
+    height:400px;
+  }
+}
+@media screen and (max-width: 480px) {
+	/* 480px以下に適用されるCSS（スマホ用） */
+  iframe{
+  height:200px;
+  }
 }
 .iframe{
   text-align: center;
