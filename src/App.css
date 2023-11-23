@@ -183,22 +183,63 @@ footer{
 }
 
 /*portfolioイメージ*/
-.portImage{
-  width: 100%; 
-  padding-top: 40px;
-text-align: center;
+/* .youtube{
+  position: relative;
+  width:100%;
+  padding-top:50%;
+  /* margin-top:30px;
+  margin-bottom:30px; */
+  /* text-align: center; */
+/* .iframe{
+  width:30%;
+} */
+
+/* .swiper{
+  padding: 40px 40px;
+} */
+iframe{
+  width:65%;
+  /* text-align: center; */
 }
+.iframe{
+  text-align: center;
+  margin-bottom: 20px;
+}
+.my-swiper{
+  margin-top:30px;
+  margin-bottom:30px;
+  /* padding: 40px 0; */
+  text-align: center;
+}
+.my-swiper .swiper-pagination-bullet{
+  width: 10px;
+  height: 10px;
+  background-color: var(--black-color)
+}
+.my-swiper [class^="swiper-button-"]{
+  color: var(--black-color);
+  width: 20%;
+}
+.my-swiper .swiper-pagination {
+  position: relative !important;
+  margin-top: 20px !important;
+}
+
 .splaImage {
-  height:50%;
-  width:50%;
+  height:40%;
+  width:40%;
 } 
 .pfImage{
-  height: 60%;
-  width: 60%;
+  height: 55%;
+  width: 55%;
 }
 .catImage{
   height: 60%;
   width: 60%;
+}
+.foodImage{
+  height: 55%;
+  width: 55%;
 }
 
 
