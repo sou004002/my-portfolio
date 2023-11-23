@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "/my-portfolio/static/css/main.3ab859be.css",
-    "main.js": "/my-portfolio/static/js/main.2fd51622.js",
-    "static/media/foodAndGabages.zip": "/my-portfolio/static/media/foodAndGabages.089044fcecf8a96401b9.zip",
-    "static/media/nekonobori.zip": "/my-portfolio/static/media/nekonobori.095ead998ccec18b6fa9.zip",
-    "static/media/foodAndGabages.jpg": "/my-portfolio/static/media/foodAndGabages.72744eda6de188d05f05.jpg",
-    "static/media/myportfolio.png": "/my-portfolio/static/media/myportfolio.c2e5a1106c822b2b0571.png",
-    "static/media/catCliming.jpg": "/my-portfolio/static/media/catCliming.d4c7259bb6d013f5bb52.jpg",
-    "static/media/splatoon_weaponjudge.png": "/my-portfolio/static/media/splatoon_weaponjudge.85f3af8735853064b7fd.png",
+    "main.css": "/my-portfolio/static/css/main.bafab8a4.css",
+    "main.js": "/my-portfolio/static/js/main.8c542261.js",
+    "static/media/cat02.jpg": "/my-portfolio/static/media/cat02.4ba09393cda732e42681.jpg",
+    "static/media/food02.jpg": "/my-portfolio/static/media/food02.31ae2e2c9db776d46b48.jpg",
+    "static/media/food01.jpg": "/my-portfolio/static/media/food01.72744eda6de188d05f05.jpg",
+    "static/media/cat01.jpg": "/my-portfolio/static/media/cat01.d4c7259bb6d013f5bb52.jpg",
+    "static/media/spla01.jpg": "/my-portfolio/static/media/spla01.69d125877185661dd04a.jpg",
+    "static/media/port02.jpg": "/my-portfolio/static/media/port02.b93ccfec5bb3ea1ec84c.jpg",
+    "static/media/port01.jpg": "/my-portfolio/static/media/port01.202673436a3ac594537d.jpg",
+    "static/media/spla02.jpg": "/my-portfolio/static/media/spla02.266295a02a60841c063d.jpg",
     "index.html": "/my-portfolio/index.html",
-    "main.3ab859be.css.map": "/my-portfolio/static/css/main.3ab859be.css.map",
-    "main.2fd51622.js.map": "/my-portfolio/static/js/main.2fd51622.js.map"
+    "main.bafab8a4.css.map": "/my-portfolio/static/css/main.bafab8a4.css.map",
+    "main.8c542261.js.map": "/my-portfolio/static/js/main.8c542261.js.map"
   },
   "entrypoints": [
-    "static/css/main.3ab859be.css",
-    "static/js/main.2fd51622.js"
+    "static/css/main.bafab8a4.css",
+    "static/js/main.8c542261.js"
   ]
 }
